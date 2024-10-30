@@ -22,7 +22,7 @@ Write a program that takes input from the user to search and retrieve informatio
     <li> Open Terminal and go to the folder where the project is stored after downloading from Github </li>
     <li> Type and Enter </li>
     
-        ** python datadevquest_c1_oct2024.py **
+    python datadevquest_c1_oct2024.py
    
     <li> Enter the view name and press Enter </li>
 </ol>
