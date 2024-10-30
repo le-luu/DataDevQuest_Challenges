@@ -16,10 +16,10 @@ Write a program that takes input from the user to search and retrieve informatio
 
 #### Set up Instruction
 <ol>
-    <li> Clone the project at </li> 
+    <li> Download the files at https://github.com/le-luu/DataDevQuest_Challenges/tree/main/Challenge_1 </li> 
     <li> Use any text Editor or Python IDE to open the file datadevquest_c1_oct_2024.py </li>
     <li> Edit the server_url, site_name, token_name and personal access token variables </li>
-    <li> Open Terminal and go to the folder where the project is cloned from Github </li>
+    <li> Open Terminal and go to the folder where the project is stored after downloading from Github </li>
     <li> Type and Enter </li>
     ```python
         python datadevquest_c1_oct2024.py
@@ -28,4 +28,4 @@ Write a program that takes input from the user to search and retrieve informatio
 </ol>
 
 #### Limitation from the project
-Handling error if the user adds the wrong data in the credential variables (server url, site name, token name, personal access token.
+Handling error if the user adds the wrong data in the credential variables (server url, site name, token name, personal access token).
